@@ -22,8 +22,7 @@
 
 - **Windows** : <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" style="padding: 0 12px" height="30">
 - **macOS** : <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="*MAC" style="padding: 0 12px" height="30"/>
-- **Linux** : <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg
-" alt="arch-linux" style="padding: 0 12px" height="30"/>
+- **Linux** : <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch-linux" style="padding: 0 12px" height="30"/>
 
 - **Shell** : <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="padding: 0 12px" height="30"/><img src="https://zonetuto.fr/wp-content/uploads/2022/12/zsh-terminal-macos-logo.jpg" alt="terminal mac" style="padding: 0 12px" height="30"/>
 - **IDE** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" style="padding: 0 12px" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vscode community" style="padding: 0 12px" height="30"/>
