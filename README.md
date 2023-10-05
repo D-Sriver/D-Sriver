@@ -1,17 +1,16 @@
 
+<h1 align="center" style="margin: 50px 0;">Salut 👋, je m'appelle Sébastien</h1>
+<h3 align="center" style="margin: 50px 0;">🔥 Je suis passionné par les langages de programmation <br> 🛠️ Je vous propose de construire l'avenir ensemble</h3>
 
-<h1 align="center" style="margin:50px 0;">Salut 👋, je m'appel Sébastien</h1>
-<h3 align="center" style="margin:50px 0;">🔥  Je suis un passionné par les langages de programmation <br> 🛠️ Je vous propose de construire l'avenir ensemble</h3>
+🎓 Je suis actuellement en reconversion afin de devenir **développeur fullstack** (détenteur d’un **Bac +2** en tant qu'intégrateur web).
 
-🎓 Je suis actuellement en réconversion afin de devenir **développeur fullstack**. ( détenteur d’un **Bac +2** en tant qu'intégrateur web )
-
-🚀 Je me plonge dans les **technologies de pointe et je nourris ma soif d'apprentissage en développement logiciel. Toujours prêt à dévorer de nouvelles compétences et à évoluer !**
+🚀 Je plonge dans les **technologies de pointe et nourris ma soif d'apprentissage en développement logiciel. Toujours prêt à acquérir de nouvelles compétences et à évoluer !**
 
 🔍 Je suis à la recherche de **collaborations surprenantes et de développeurs partageant ma passion !**
 
 🙏 J'ai besoin d'un coup de main pour **affiner mon code et explorer de nouvelles technologies. Ouvert à l'apprentissage et à la collaboration avec des magiciens du développement expérimentés !**
 
-💬 Interrogez-moi sur **tout ce qui touche à la programmation, au développement logiciel ou aux tendances technologiques. Je suis là pour partager mes connaissances et discuter dans la bonne humeur !**
+💬 N'hésitez pas à m'interroger sur **tout ce qui touche à la programmation, au développement logiciel ou aux tendances technologiques. Je suis là pour partager mes connaissances et discuter dans la bonne humeur !**
 
 ---
 
